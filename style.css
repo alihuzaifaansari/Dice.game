@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+  
+}
+button{
+    padding: 10px;
+    gap: 10px;
+}
+#div1,#div2{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    background-color: aqua;
+}
+.dices{
+    display: flex;
+   gap: 10px;
+}
